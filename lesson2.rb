@@ -1,0 +1,1 @@
+puts "My name is Sato Katsushi." + 28.to_s + "years old."
