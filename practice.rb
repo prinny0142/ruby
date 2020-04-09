@@ -1,8 +1,9 @@
-webcamp = "オンラインプログラミング学習"
-puts webcamp
+i = 0
+while i <= 10 do
+  if i > 5
+    break
+end
 
-Pi = 3.14
-puts Pi
-
-Pi = 100
-puts Pi
+puts i
+i += 1
+end
